@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ClipPage1",
+    "pages/RelaitivePage",
+    "pages/HttpPage"
+  ]
+}
